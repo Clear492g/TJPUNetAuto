@@ -1,0 +1,21 @@
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\bin\Debug\TJPU-AutoLogin.exe.config
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\bin\Debug\TJPU-AutoLogin.exe
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\bin\Debug\TJPU-AutoLogin.pdb
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csprojAssemblyReference.cache
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU_AutoLogin.MainWindow.resources
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU_AutoLogin.Properties.Resources.resources
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csproj.GenerateResource.cache
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.exe
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.pdb
+C:\Users\20155\Desktop\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csproj.CopyComplete
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\bin\Debug\TJPU-AutoLogin.exe.config
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\bin\Debug\TJPU-AutoLogin.exe
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\bin\Debug\TJPU-AutoLogin.pdb
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU_AutoLogin.MainWindow.resources
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU_AutoLogin.Properties.Resources.resources
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.exe
+D:\OneDrive\OneDrive - stu.tjpu.edu.cn\其他\TJPU-AutoLogin\TJPU-AutoLogin\obj\Debug\TJPU-AutoLogin.pdb
